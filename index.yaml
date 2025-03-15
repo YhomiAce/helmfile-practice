@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  k8s:
+  - apiVersion: v2
+    created: "2025-03-15T17:13:38.672210834+01:00"
+    description: A Helm chart for Kubernetes
+    digest: ff47d355afa188005103d72f7768da2961a370c8914a072428245e253aad60bd
+    name: k8s
+    type: application
+    urls:
+    - https://YhomiAce.github.io/helmfile-practice/k8s-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-03-15T17:13:38.67130632+01:00"

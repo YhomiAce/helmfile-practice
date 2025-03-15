@@ -5,3 +5,13 @@ releases:
   - name: flask-api
     chart: helmfile-practice/k8s
     installed: true
+
+# repositories:
+#   - name: helloworld
+#     url: git+https://github.com/rahulwagh/helmchart@helloworld?ref=master&sparse=0
+
+# releases:
+
+#   - name: helloworld
+#     chart: helloworld/helloworld
+#     installed: true 
