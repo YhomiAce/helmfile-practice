@@ -1,0 +1,7 @@
+repositories:
+  - name: helmfile-practice
+    url: https://github.com/YhomiAce/helmfile-practice
+releases:
+  - name: flask-api
+    chart: helmfile-practice/k8s
+    installed: true
